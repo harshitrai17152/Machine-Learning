@@ -1,4 +1,4 @@
 # Machine-Learning
-This repository contains all labs done in Machine Learning course.
+This repository contains all the assignments done in Machine Learning course.
 
 Instructor : Dr. Jainendra Shukla
